@@ -1,0 +1,7 @@
+@inproceedings{REPO267,
+    author = "Wang, Shuzhe and Leroy, Vincent and Cabon, Yohann and Chidlovskii, Boris and Revaud, Jerome",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "20697--20709",
+    title = "{Dust3r: Geometric 3d vision made easy}",
+    year = "2024"
+}
